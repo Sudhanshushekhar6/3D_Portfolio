@@ -42,7 +42,7 @@ You can easily create your own 3D portfolio website using this project as a temp
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/your-username/3d-portfolio.git
+git clone https://github.com/Sudhanshushekhar6/3D_Portfolio.git
 
 # 2. Navigate to the project directory
 cd 3d-portfolio
