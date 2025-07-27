@@ -45,14 +45,15 @@ You can easily create your own 3D portfolio website using this project as a temp
 git clone https://github.com/Sudhanshushekhar6/3D_Portfolio.git
 
 # 2. Navigate to the project directory
-cd 3d-portfolio
+cd 3D-Portfolio
 
 # 3. Install dependencies
 npm install
 
-# 4. Customize content
-# Modify the data in src/constants/index.js with your own information
 
-# 5. Start the development server
+# 4. Start the development server
 npm start
+
+```
+
 
